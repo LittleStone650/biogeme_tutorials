@@ -2,3 +2,7 @@
 *.xml
 *.iml
 .DS_Store
+*.iter
+*.pyc
+*.html
+*.pickle
